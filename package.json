@@ -1,0 +1,17 @@
+{
+  "name": "trenndsmusic",
+  "version": "1.0.0",
+  "description": "An Automated Trennds Music Database Editor",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "youtube-info": "^1.3.2"
+  }
+}
